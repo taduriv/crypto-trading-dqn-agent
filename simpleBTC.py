@@ -186,7 +186,7 @@ if __name__ == "__main__":
     df = df.sort_values('date').reset_index(drop=True)
 
     # Show actual date coveragec
-    print("📅 Date range in dataset:", df['date'].min(), "to", df['date'].max())
+    print(" Date range in dataset:", df['date'].min(), "to", df['date'].max())
 
     # Filter date range (2018-05-15 to 2020-10-11)
     df = df[(df['date'] >= "2018-05-15") & (df['date'] <= "2020-10-11")].reset_index(drop=True)
