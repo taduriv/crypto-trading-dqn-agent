@@ -144,7 +144,7 @@ def train_dqn(data, episodes=100):
         agent.replay()
         final_price = env.data[env.current_step - 1, 3]
         profit = env.balance + env.holdings * final_price - env.initial_balance
-        print(f"📘 Episode {episode+1}: Profit=${profit:.2f}, Buys={buys}, Sells={sells}, Holds={holds}")
+        print(f"Episode {episode+1}: Profit=${profit:.2f}, Buys={buys}, Sells={sells}, Holds={holds}")
 
         if profit > agent.best_profit:
             agent.best_profit = profit
@@ -172,7 +172,7 @@ def test_agent(data, model_path):
 
     final_balance = env.balance + env.holdings * env.data[env.current_step - 1, 3]
     profit = final_balance - env.initial_balance
-    print("\n📊 TEST RESULTS:")
+    print("\nTEST RESULTS:")
     print(f"Final Balance: ${final_balance:.2f}")
     print(f"Profit: ${profit:.2f}")
     print(f"Actions Taken - Buys: {buys}, Sells: {sells}, Holds: {holds}")
@@ -192,7 +192,7 @@ if __name__ == "__main__":
     df = df[(df['date'] >= "2018-05-15") & (df['date'] <= "2020-10-11")].reset_index(drop=True)
 
     if df.empty:
-        raise ValueError("❌ Dataset is empty after filtering by date. Check data source or date format.")
+        raise ValueError("Dataset is empty after filtering by date. Check data source or date format.")
 
     # Select numeric columns (adjust if needed)
     df = df[['open', 'high', 'low', 'close', 'Volume BTC']]
