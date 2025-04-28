@@ -62,7 +62,7 @@ def test_best_model(data, model_path):
     final_balance = env.balance + env.holdings * final_price
     profit = final_balance - env.initial_balance
 
-    print(f"\n📊 TEST SUMMARY")
+    print(f"\nTEST SUMMARY")
     print(f"Final Balance: ${final_balance:.2f}")
     print(f"Profit: ${profit:.2f}")
     print(f"Total Actions: {len(env.actions)}")
