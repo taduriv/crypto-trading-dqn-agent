@@ -1,5 +1,4 @@
-# Dessertation_crypto
-
+# crypto-trading-dqn-agent
 Project Name: Optimizing Cryptocurrency Trading 
 Decisions Using Deep Reinforcement Learn-ing Techniques
 
