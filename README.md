@@ -16,13 +16,11 @@ Later final_test.py is used for testing.
 <img width="1872" height="1045" alt="image" src="https://github.com/user-attachments/assets/efcc4c5f-0c16-4fc7-b851-03844e956481" />
 
 ## About Data set
-Collected hourly Open-High-Low-Close-Volume data for: Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC)
-Date range:15 May 2018 to 11 October 2020.
 
 <img width="1651" height="126" alt="image" src="https://github.com/user-attachments/assets/27e21c97-4f89-4bd5-8bca-43ce6c75d7f1" />
-
-<img width="1445" height="126" alt="image" src="https://github.com/user-attachments/assets/2100b1ee-5c9a-4775-a616-29a687041c9d" />
-
 <img width="674" height="618" alt="image" src="https://github.com/user-attachments/assets/507066f6-5aa1-492c-8c3d-21ac14a25b37" />
+
+<img width="1038" height="973" alt="image" src="https://github.com/user-attachments/assets/2ee71eec-b775-412f-b7a8-7c994f019765" />
+
 
 
