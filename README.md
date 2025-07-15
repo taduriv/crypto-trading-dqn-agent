@@ -13,7 +13,7 @@ Later final_test.py is used for testing.
 
 ## MODEL DEVELOPMENT
 
-<img width="1872" height="1045" alt="image" src="https://github.com/user-attachments/assets/efcc4c5f-0c16-4fc7-b851-03844e956481" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/efcc4c5f-0c16-4fc7-b851-03844e956481" />
 
 ## About Data set
 
