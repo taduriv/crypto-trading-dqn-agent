@@ -11,3 +11,6 @@ simpleLTC.py
 
 The above are used to train the agent for 100 episodes  and the updated weights which yeild high profits are saved as best_model_number.keras.
 Later final_test.py is used for testing.
+
+<img width="1872" height="1045" alt="image" src="https://github.com/user-attachments/assets/efcc4c5f-0c16-4fc7-b851-03844e956481" />
+
