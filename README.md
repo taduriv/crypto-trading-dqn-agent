@@ -20,7 +20,9 @@ Later final_test.py is used for testing.
 <img width="1651" height="126" alt="image" src="https://github.com/user-attachments/assets/27e21c97-4f89-4bd5-8bca-43ce6c75d7f1" />
 <img width="674" height="618" alt="image" src="https://github.com/user-attachments/assets/507066f6-5aa1-492c-8c3d-21ac14a25b37" />
 
-<img width="1038" height="973" alt="image" src="https://github.com/user-attachments/assets/2ee71eec-b775-412f-b7a8-7c994f019765" />
+## State, Environment and Observation
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4a54c763-e5b6-49ae-a000-af16324cb5e7" />
+
 
 
 
